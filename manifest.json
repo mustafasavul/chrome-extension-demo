@@ -1,0 +1,16 @@
+{
+  "name": "Advice",
+  "version": "1.0.0",
+  "description": "Advice for random things",
+  "manifest_version": 3,
+  "author": "Mustafa Savul",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Advice"
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
